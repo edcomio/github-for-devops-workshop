@@ -18,3 +18,16 @@
   21 git restore testing.py
   22 clear
   23 git history
+  35 git remote -v
+  36 git push origin master
+  37 git add assignment1.html
+  38 git status
+  39 git commit -m "new html file has been added with boiler code only"
+  40 git status
+  41 git push origin master
+  42 git status
+  43 mkdir clonedfolder
+  44 cd .\clonedfolder\
+  45 git clone https://github.com/edcomio/github-for-devops-workshop.git
+  46 ls
+  47 clear
