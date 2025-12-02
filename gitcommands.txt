@@ -31,3 +31,5 @@
   45 git clone https://github.com/edcomio/github-for-devops-workshop.git
   46 ls
   47 clear
+
+hello my name is edwin bhai
