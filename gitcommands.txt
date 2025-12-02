@@ -1,0 +1,20 @@
+ 2 git status
+   3 git add testing.py
+   4 git status
+   5 git rm --cached
+   6 git rm --cached testing.py
+   7 git status
+   8 git add testing.py
+   9 git status
+  10 git commit -m "staged to tracked"
+  11 git status
+  12 git rm
+  13 git rm testing.py
+  14 ls
+  15 ls -a
+  16 clear
+  17 git status
+  20 git restore --staged testing.py
+  21 git restore testing.py
+  22 clear
+  23 git history
